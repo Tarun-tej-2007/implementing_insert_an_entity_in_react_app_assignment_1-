@@ -15,7 +15,7 @@ function AddBook() {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log("Book Submitted:", formData);
-    // Hypothetical submission logic
+
   };
 
   return (
